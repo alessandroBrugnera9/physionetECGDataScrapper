@@ -12,7 +12,7 @@ recordsNames = [filesPath 'RECORDS'];
 files = csvread(recordsNames)';
 
 %creating folder for the processed data, can be changed according to the desire
-saveFolder = 'db';
+saveFolder = 'db/';
 mkdir(saveFolder)
 
 
