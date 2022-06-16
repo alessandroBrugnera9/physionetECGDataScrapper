@@ -28,7 +28,7 @@ TODOs:
 </h4>
 <ol>
   <li>
-    Get lat piece of data padding zeros, or replicating data at the end.
+    Get last piece of data padding zeros, or replicating data at the end.
   </li>
   <li>
     Check if the files were downloaded correctly before unziping
